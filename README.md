@@ -1,8 +1,9 @@
 # Chat-Hatke
 The Chat Messenger of Buy Hatke 
-
 This repo contains entire code for Chat Hatke app using Telegram Api
 The main Features of the app includes a chat head feature which you can access by clicking on the notifications.
+To disable the chat head just long press on the chat head.
+
 All the libraries that are included in the project are:
 
   android.support:support-v4:22.1.+'
